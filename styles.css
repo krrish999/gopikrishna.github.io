@@ -62,6 +62,16 @@ body {
     border: 2px solid #64ffda;
     box-shadow: 0 0 30px rgba(100, 255, 218, 0.2);
 }
+.resume-link {
+    color: #64ffda;
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s ease;
+}
+
+.resume-link:hover {
+    color: #64ffda;
+}
 
 .intro h1 {
     font-size: 3.5rem;
